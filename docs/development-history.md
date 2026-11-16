@@ -1,6 +1,28 @@
 # Development history
 
-These entries come from the original private Spark android repository. The list shows abbreviated commit IDs and subjects through the version copied for review.
+These entries come from the original private Spark android repository. The original repository remains private because older revisions contain credentials and development configuration that should stay out of the public review copy. These screenshots from GitHub show the development chronology and contributor account. The right edge has been covered to hide private commit references. Earlier entries document experiments during development.
+
+## GitHub screenshots
+
+### Initial setup
+
+Initial Android setup, Google sign-in, onboarding and the first interception service.
+
+![Initial Android setup, Google sign-in, onboarding and the first interception service.](history/initial-setup.png)
+
+### Focus and ai
+
+Work on the focus overlay, reminders and the Spark AI screen.
+
+![Work on the focus overlay, reminders and the Spark AI screen.](history/focus-and-ai.png)
+
+### Profile and journal
+
+Profile and journal updates, theme improvements and refinements to the interruption experience.
+
+![Profile and journal updates, theme improvements and refinements to the interruption experience.](history/profile-and-journal.png)
+
+## Snapshot commit log
 
 ![Commit log from the original repository](commit-history.png)
 
